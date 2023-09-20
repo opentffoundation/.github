@@ -1,2 +1,2 @@
 # .github
-https://github.com/opentffoundation now accessible at: https://github.com/opentofu
+https://github.com/opentffoundation is now accessible at: https://github.com/opentofu
